@@ -13,3 +13,4 @@ The ground basis - What is it and Why you need it
 1. http://blog.andrewray.me/reactjs-for-stupid-people/
 2. https://thinkster.io/what-exactly-is-react
 3. https://thinkster.io/getting-started-with-react
+4. https://github.com/petehunt/react-howto
