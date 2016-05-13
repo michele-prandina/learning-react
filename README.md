@@ -14,3 +14,11 @@ The ground basis - What is it and Why you need it
 2. https://thinkster.io/what-exactly-is-react
 3. https://thinkster.io/getting-started-with-react
 4. https://github.com/petehunt/react-howto
+
+
+## Advanced
+Advanced resources, lectures etc
+
+>Articles
+
+1. http://andrewhfarmer.com/react-ajax-best-practices/
