@@ -53,3 +53,9 @@ Advanced resources, lectures etc
 4. https://www.cheatography.com/kitallis/cheat-sheets/reactjs/
 5. https://egghead.io/react-redux-cheatsheets
 6. https://github.com/azat-co/cheatsheets/tree/master/react
+7. https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux
+
+## Courses
+
+1. https://egghead.io/technologies/react
+2. https://www.udemy.com/react-redux/
