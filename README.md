@@ -59,3 +59,8 @@ Advanced resources, lectures etc
 
 1. https://egghead.io/technologies/react
 2. https://www.udemy.com/react-redux/
+
+
+## Books
+
+1. https://developmentarc.gitbooks.io/react-indepth/content/index.html
