@@ -17,6 +17,7 @@ The ground basis - What is it and Why you need it
 5. https://github.com/petehunt/react-howto
 6. http://andrewhfarmer.com/how-ajax-works-react/
 7. https://github.com/enaqx/awesome-react
+8. https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component
 
 >Videos
 
