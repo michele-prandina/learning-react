@@ -16,6 +16,7 @@ The ground basis - What is it and Why you need it
 4. https://thinkster.io/getting-started-with-react
 5. https://github.com/petehunt/react-howto
 6. http://andrewhfarmer.com/how-ajax-works-react/
+7. https://github.com/enaqx/awesome-react
 
 >Videos
 
@@ -33,6 +34,8 @@ Advanced resources, lectures etc
 
 1. http://andrewhfarmer.com/react-ajax-best-practices/
 2. http://andrewhfarmer.com/react-seo/
+3. http://benchling.engineering/performance-engineering-with-react/
+4. https://reactjsnews.com/playing-with-react-and-d3
 
 
 ## Tutorials
