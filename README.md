@@ -15,6 +15,10 @@ The ground basis - What is it and Why you need it
 3. https://thinkster.io/getting-started-with-react
 4. https://github.com/petehunt/react-howto
 
+>Videos
+
+1. https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b (youtube playlist)
+
 
 ## Advanced
 Advanced resources, lectures etc
