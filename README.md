@@ -15,7 +15,6 @@ The ground basis - What is it and Why you need it
 2. https://thinkster.io/what-exactly-is-react
 3. https://thinkster.io/getting-started-with-react
 4. https://github.com/petehunt/react-howto
-5. https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 5. http://andrewhfarmer.com/how-ajax-works-react/
 
 >Videos
@@ -38,4 +37,5 @@ Advanced resources, lectures etc
 2. http://buildwithreact.com/tutorial
 3. http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
 4. http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
+5. https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 5. https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js
