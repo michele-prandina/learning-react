@@ -52,3 +52,4 @@ Advanced resources, lectures etc
 3. http://react.tips/
 4. https://www.cheatography.com/kitallis/cheat-sheets/reactjs/
 5. https://egghead.io/react-redux-cheatsheets
+6. https://github.com/azat-co/cheatsheets/tree/master/react
