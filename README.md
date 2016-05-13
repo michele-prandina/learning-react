@@ -20,7 +20,7 @@ The ground basis - What is it and Why you need it
 >Videos
 
 1. https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b (youtube playlist)
-2. https://www.youtube.com/watch?v=4ZAEBxGipoA&list=PL6gx4Cwl9DGBhLZx_5C-jqECBE4HIID_k (youtube playlist)
+2. https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhLZx_5C-jqECBE4HIID_k (youtube playlist)
 
 
 ## Advanced
